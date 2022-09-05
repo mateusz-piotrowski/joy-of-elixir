@@ -1,16 +1,12 @@
-# new-git-repo-template
+# Joy of Elixir
 
 ## Description
 
-The project contains basic files to the new git repository.
+The project contains notes from Joy of Elixir book.
 
 ## Motivation
 
-The projects has been created to easier setup new git repository.
-
-## Installation
-
-1. Clone repository from server.
+The projects has been created to share knowledge with the community.
 
 ## Contributor
 

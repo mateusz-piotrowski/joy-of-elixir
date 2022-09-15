@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (September 16 2022)
+
+**Updated :**
+
+- 2-where-did-i-put-that-value.exs file
+
 ## [0.0.3] (September 13 2022)
 
 **Added :**

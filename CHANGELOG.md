@@ -10,6 +10,7 @@
 
 - move 1-appeasing-the-masses.exs file to chapter-1 directory
 - move 2-where-did-i-put-that-value.exs file to chapter-2 directory
+- move 5-funky-functions.exs file to chapter-5 directory
 
 ## [0.0.4] (September 16 2022)
 

@@ -9,6 +9,10 @@
 - exercise-2.exs file
 - exercise-3.exs file
 
+**Updated :**
+
+- 5-funky-functions.exs - delete Exercise no. 4 header
+
 **Changed :**
 
 - move 1-appeasing-the-masses.exs file to chapter-1 directory

@@ -28,6 +28,3 @@ average = fn(%{"age" => age_1}, %{"age" => age_2}) ->
 (age_1 + age_2) / 2 end
 IO.puts(average.(%{"age" => 10}, %{"age" => 20}))
 IO.puts("")
-
-IO.puts("Exercise no. 4")
-IO.puts("")

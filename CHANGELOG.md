@@ -5,6 +5,7 @@
 **Added :**
 
 - 5-funky-functions.exs
+- exercise-1.exs file
 
 **Changed :**
 

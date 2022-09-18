@@ -6,6 +6,10 @@
 
 - 5-funky-functions.exs
 
+**Changed :**
+
+- move 1-appeasing-the-masses.exs file to chapter-1 directory
+
 ## [0.0.4] (September 16 2022)
 
 **Updated :**

@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.5] (September 18 2022)
+
+**Added :**
+
+- 5-funky-functions.exs
+
 ## [0.0.4] (September 16 2022)
 
 **Updated :**

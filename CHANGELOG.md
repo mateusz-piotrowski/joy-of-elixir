@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.6] (September 21 2022)
+
+**Added :**
+
+- 6-pattern-matching.exs
+
 ## [0.0.5] (September 18 2022)
 
 **Added :**

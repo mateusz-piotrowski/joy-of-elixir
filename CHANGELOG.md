@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.7] (September 26 2022)
+
+**Added :**
+
+- 8-strings-input-and-output.exs
+
 ## [0.0.6] (September 21 2022)
 
 **Added :**

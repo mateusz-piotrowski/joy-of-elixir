@@ -5,6 +5,7 @@
 **Added :**
 
 - 9-lists.exs
+- 10-maps.exs
 
 ## [0.0.7] (September 26 2022)
 

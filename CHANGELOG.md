@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.8] (October 2 2022)
+
+**Added :**
+
+- 9-lists.exs
+
 ## [0.0.7] (September 26 2022)
 
 **Added :**

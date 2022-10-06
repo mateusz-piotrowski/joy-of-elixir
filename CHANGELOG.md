@@ -1,5 +1,12 @@
 # The Changelog
 
+## [0.0.9] (October 7 2022)
+
+**Added :**
+
+- 16-mix.exs
+- people project
+
 ## [0.0.8] (October 2 2022)
 
 **Added :**
